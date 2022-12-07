@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:netflix/Presentation/Downloads/screen_downloads.dart';
-import 'package:netflix/Presentation/Fast%20Laugh/fast_laugh.dart';
-import 'package:netflix/Presentation/Home/screen_home.dart';
-import 'package:netflix/Presentation/Main_Page/Widgets/bottom_nav.dart';
-import 'package:netflix/Presentation/New%20and%20Hot/screen_new_and_hot.dart';
-import 'package:netflix/Presentation/Search/screen-search.dart';
+import 'package:netflix/presentation/downloads/screen_downloads.dart';
+import 'package:netflix/presentation/fast_laugh/fast_laugh.dart';
+import 'package:netflix/presentation/home/screen_home.dart';
+import 'package:netflix/presentation/main_page/widgets/bottom_nav.dart';
+import 'package:netflix/presentation/new_and%20_hot/screen_new_and_hot.dart';
+import 'package:netflix/presentation/search/screen-search.dart';
 
 class ScreenMainPage extends StatelessWidget {
   ScreenMainPage({super.key});
