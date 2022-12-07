@@ -1,9 +1,9 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:netflix/Core/Colors/colors.dart';
-import 'package:netflix/Core/constants.dart';
-import 'package:netflix/Presentation/Widgets/app_bar_widget.dart';
+import 'package:netflix/core/Colors/colors.dart';
+import 'package:netflix/core/constants.dart';
+import 'package:netflix/presentation/widgets/app_bar_widget.dart';
 
 class ScreenDownloads extends StatelessWidget {
   ScreenDownloads({super.key});

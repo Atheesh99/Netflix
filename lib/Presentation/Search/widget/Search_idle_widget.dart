@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:netflix/Core/Colors/colors.dart';
-import 'package:netflix/Core/constants.dart';
-import 'package:netflix/Presentation/Search/widget/title.dart';
+import 'package:netflix/core/Colors/colors.dart';
+import 'package:netflix/core/constants.dart';
+import 'package:netflix/presentation/search/widget/title.dart';
 
 const imageUrl =
     "https://www.themoviedb.org/t/p/w250_and_h141_face/56v2KjBlU4XaOv9rVYEQypROD7P.jpg";

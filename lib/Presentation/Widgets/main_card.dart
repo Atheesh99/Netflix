@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:netflix/Core/constants.dart';
+import 'package:netflix/core/constants.dart';
 
 class MainCard extends StatelessWidget {
   const MainCard({Key? key}) : super(key: key);
@@ -7,11 +7,13 @@ class MainCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 150,
+      margin: EdgeInsets.symmetric(horizontal: 10),
+      width: 130,
       height: 250,
       decoration: BoxDecoration(
-        borderRadius: kRadius20,
+        borderRadius: kRadius10,
         image: const DecorationImage(
+          fit: BoxFit.cover,
           image: NetworkImage(
             "https://www.themoviedb.org/t/p/w220_and_h330_face/7c1JtraYsjMMnk8Md0IMoyRzqZJ.jpg",
           ),

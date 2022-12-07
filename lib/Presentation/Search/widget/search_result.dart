@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
-import 'package:netflix/Core/constants.dart';
-import 'package:netflix/Presentation/Search/widget/title.dart';
+import 'package:netflix/core/constants.dart';
+import 'package:netflix/presentation/search/widget/title.dart';
 
 const imageUrl =
     "https://www.themoviedb.org/t/p/w220_and_h330_face/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg";

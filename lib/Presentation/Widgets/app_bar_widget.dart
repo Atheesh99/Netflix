@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:netflix/Core/constants.dart';
+import 'package:netflix/core/constants.dart';
 
 class AppBarWidget extends StatelessWidget {
   const AppBarWidget({Key? key, required this.title}) : super(key: key);
